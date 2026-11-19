@@ -1,4 +1,5 @@
 Project Management using git
 Experiment 01 Basic Git commands
 30th October 2026 Friday
-Today its not a good day
+Today its not a good dayMaster branch update
+Master branch update 2nd time
