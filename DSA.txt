@@ -2,3 +2,5 @@
 array
 queue
 stack
+Arrays
+Trees
